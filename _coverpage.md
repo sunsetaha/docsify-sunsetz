@@ -1,12 +1,13 @@
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+# <font color=#666>**SUNSETZ の** 窝</font>
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
+> 
 
- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+ <font color=#666 size=5> 🚶 天天迫我上路 天天迫我进步 难避免卷入时代太恐怖🏃</font>
+ <font color=#666>  
+- 日做夜做
+- 日思夜想
+ <font>
 
-
-[开始使用 Let Go](/README.md)
+[芝麻开门](/README.md)
